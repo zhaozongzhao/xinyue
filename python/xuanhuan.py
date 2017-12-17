@@ -5,3 +5,4 @@ def format_name(s):
 
 
 print(list(map(format_name, ['adam', 'LISA', 'barT'])))#注意py3中需要使用 list()转化map()
+ben
